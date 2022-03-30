@@ -1,8 +1,9 @@
-# google_clone
+A completely Responsive Google Clone- Works on Android, iOS & Web!
 
-A new Flutter project.
-
-## Getting Started
+Features
+Responsive Google UI
+Fetches Results from Google's Custom Search API
+Pagination
 
 This project is a starting point for a Flutter application.
 
