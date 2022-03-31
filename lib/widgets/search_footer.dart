@@ -20,7 +20,7 @@ class SearchFooter extends StatelessWidget {
               Row(
             children: [
               Text(
-                'India',
+                'Pakistan',
                 style: TextStyle(
                   color: Colors.grey[700],
                   fontSize: 15,
@@ -40,7 +40,7 @@ class SearchFooter extends StatelessWidget {
               ),
               const SizedBox(width: 10),
               const Text(
-                "100016, Mumbai, Maharashtra",
+                "100016, Karachi,ShahFaisal",
                 style: TextStyle(
                   fontSize: 14,
                   color: primaryColor,
